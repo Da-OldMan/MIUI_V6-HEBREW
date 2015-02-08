@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apnDisplay">
+        <item>שם</item>
+        <item>APN</item>
+        <item>שרת</item>
+        <item>MMSC</item>
+        <item>שרת Proxy של MMS</item>
+        <item>יציאת MMS</item>
+        <item>MCC</item>
+        <item>MNC</item>
+        <item>שם משתמש</item>
+        <item>סיסמה</item>
+        <item>סוג APN</item>
+    </string-array>
+</resources>

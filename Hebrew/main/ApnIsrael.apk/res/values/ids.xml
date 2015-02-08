@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tvVersion">false</item>
+    <item type="id" name="email">false</item>
+    <item type="id" name="btMoveUp">false</item>
+    <item type="id" name="btMoveDown">false</item>
+    <item type="id" name="btMinimize">false</item>
+    <item type="id" name="btClose">false</item>
+    <item type="id" name="tvText">false</item>
+    <item type="id" name="btNext">false</item>
+    <item type="id" name="btCopy">false</item>
+    <item type="id" name="btPrev">false</item>
+    <item type="id" name="tvNetwork">false</item>
+    <item type="id" name="btHot">false</item>
+    <item type="id" name="btOrange">false</item>
+    <item type="id" name="btCellcom">false</item>
+    <item type="id" name="btPele">false</item>
+    <item type="id" name="btGolan">false</item>
+    <item type="id" name="btRami">false</item>
+    <item type="id" name="btHome">false</item>
+    <item type="id" name="btYou">false</item>
+    <item type="id" name="bt012">false</item>
+</resources>

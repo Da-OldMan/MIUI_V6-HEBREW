@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/pyramid_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="10.0dip">
+        <TextView android:textColor="#fffafafa" android:gravity="right" android:layout_gravity="right" android:id="@id/tvNetwork" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="15.0dip" android:text="בדיקה" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="7.0dip" android:layout_marginRight="7.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="7.0dip" android:layout_weight="1.0">
+            <ImageButton android:id="@id/btHot" android:background="@drawable/fw_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="7.0dip" android:src="@drawable/logo_hot" android:scaleType="fitCenter" android:layout_weight="1.0" />
+            <ImageButton android:id="@id/btOrange" android:background="@drawable/fw_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/logo_orange" android:scaleType="fitCenter" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="7.0dip" android:layout_weight="1.0">
+            <ImageButton android:id="@id/btCellcom" android:background="@drawable/fw_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="7.0dip" android:src="@drawable/logo_cellcom" android:scaleType="fitCenter" android:layout_weight="1.0" />
+            <ImageButton android:id="@id/btPele" android:background="@drawable/fw_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/logo_pele" android:scaleType="fitCenter" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="7.0dip" android:layout_weight="1.0">
+            <ImageButton android:id="@id/btGolan" android:background="@drawable/fw_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="7.0dip" android:src="@drawable/logo_golan" android:scaleType="fitCenter" android:layout_weight="1.0" />
+            <ImageButton android:id="@id/btRami" android:background="@drawable/fw_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/logo_rami" android:scaleType="fitCenter" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="7.0dip" android:layout_weight="1.0">
+            <ImageButton android:id="@id/btHome" android:background="@drawable/fw_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="7.0dip" android:src="@drawable/logo_home" android:scaleType="fitCenter" android:layout_weight="1.0" />
+            <ImageButton android:id="@id/btYou" android:background="@drawable/fw_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/logo_you" android:scaleType="fitCenter" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="7.0dip" android:layout_weight="1.0">
+            <LinearLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.25" />
+            <ImageButton android:id="@id/bt012" android:background="@drawable/fw_button" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/logo_012" android:scaleType="fitCenter" android:layout_weight="0.5" />
+            <LinearLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.25" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="#fffafafa" android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="15.0dip" android:text="@string/copyright" android:shadowColor="#ff000000" android:shadowRadius="5.0" />
+</LinearLayout>
