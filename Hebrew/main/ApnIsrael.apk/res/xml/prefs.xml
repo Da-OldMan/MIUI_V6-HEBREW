@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <CheckBoxPreference android:title="שיטת התקנה" android:key="pref_guide" android:defaultValue="true" android:summaryOn="לשאול כל פעם אם מודרך או רוט" android:summaryOff="התקנה מודרכת כברירת מחדל" />
-</PreferenceScreen>
