@@ -265,8 +265,8 @@
     <string name="pref_title_alarm_remind">תזכורת שעון מעורר</string>
     <string name="pref_error_no_ringtone_select">לא נבחרו</string>
     <string name="alarm_label">בטל</string>
-    <string name="event_date_format">MM/dd</string>
-    <string name="event_full_date_format">MM/dd/yyyy</string>
+    <string name="event_date_format">dd/MM</string>
+    <string name="event_full_date_format">dd/MM/yyyy</string>
     <string name="cta_notice_title">גישה לאנשי קשר</string>
     <string name="cta_notice_message">The birthday reminders feature needs to access your contacts to function normally.</string>
     <string name="cta_notice_checkbox">"Don't show again"</string>

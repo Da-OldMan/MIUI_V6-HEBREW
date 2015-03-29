@@ -14,7 +14,7 @@
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">°C</string>
     <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
-    <string name="view_aqi_time_format">yyyy/MM/dd HH:mm</string>
+    <string name="view_aqi_time_format">dd/MM/yyyy HH:mm</string>
     <string name="activity_weather_main_null_data">- -</string>
     <string name="app_name">מזג אוויר</string>
     <string name="location_management">מיקומים</string>
