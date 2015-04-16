@@ -21,7 +21,7 @@
     <string name="gps_hint">המיקום הנוכחי</string>
     <string name="add_city">הוסף מיקום</string>
     <string name="edit_city">ערוך</string>
-    <string name="network_unavailable">"Can't connect to the network."</string>
+    <string name="network_unavailable">"אין אפשרות להתחבר לרשת."</string>
     <string name="act_find_city_hot_title">ערים פופולריות</string>
     <string name="act_find_city_hint">חפש</string>
     <string name="act_set_city_find_side">מאתר עיר...</string>
@@ -32,7 +32,7 @@
     <string name="button_not_allow">מנע</string>
     <string name="location_allow_err">האיתור נכשל.</string>
     <string name="view_aqi_title">איכות האוויר</string>
-    <string name="act_weather_find_city_net_no_good">"Can't connect to the network."</string>
+    <string name="act_weather_find_city_net_no_good">"אין אפשרות להתחבר לרשת."</string>
     <string name="act_weather_find_city_click_retry">נסה שנית</string>
     <string name="act_weather_find_city_connect_net">בדוק את חיבור הרשת ונסה שוב.</string>
     <string name="act_weather_find_city_searching">מחפש...</string>
@@ -68,8 +68,8 @@
     <string name="activity_find_city_dialog_set">הגדרה</string>
     <string name="activity_find_city_dialog_title">מיקום שירות</string>
     <string name="activity_find_city_dialog_message">אפשר למזג אוויר להשתמש בשירות מיקום</string>
-    <string name="view_sun_titile">Sunrise and sunset</string>
-    <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ss"</string>
+    <string name="view_sun_titile">זריחה ושקיעה</string>
+    <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ss"</string>
     <string name="data_source_timezone">GMT %1$s</string>
     <string name="activity_main_time_format">MM/dd</string>
     <string name="viewsun_time_format">HH:mm</string>
@@ -85,8 +85,8 @@
     <string name="view_aqi_detail_pm25">PM2.5</string>
     <string name="view_aqi_detail_no2">NO2</string>
     <string name="application_screenorientation">portrait</string>
-    <string name="first_start_network_msg">To get weather info, you need to connect to the internet.</string>
-    <string name="first_start_network_title">Connection Alert</string>
-    <string name="international_detail_menu_title">Details</string>
-    <string name="view_realtime_clear_substitution">Clear</string>
+    <string name="first_start_network_msg">עליך להתחבר לרשת על מנת לקבל מידע על מזג האוויר.</string>
+    <string name="first_start_network_title">התראת התחברות</string>
+    <string name="international_detail_menu_title">פרטים</string>
+    <string name="view_realtime_clear_substitution">בהיר</string>
 </resources>
