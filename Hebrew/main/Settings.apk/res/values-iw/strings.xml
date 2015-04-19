@@ -1426,7 +1426,6 @@
     <string name="color_cyan">"ציאן"</string>
     <string name="color_yellow">"צהוב"</string>
     <string name="color_magenta">"Magenta"</string>
-    <string name="color_custom">"\ #% 1 $ 02X% 2 02X $% 3 02X $"</string>
     <string name="enable_service_title">"%1$s"</string>
     <string name="capabilities_list_title">"%1$s הצרכים ל:"</string>
     <string name="capability_title_receiveAccessibilityEvents">"שימו לב את הפעולות שלך"</string>
