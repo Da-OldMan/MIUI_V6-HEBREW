@@ -1235,10 +1235,6 @@
     <string name="service_process_name">"%1$s"</string>
     <string name="running_process_item_user_label">"%1$s"</string>
     <string name="running_process_item_removed_user_label">"משתמשים הוסרו"</string>
-    <string name="running_processes_item_description_s_s">"%1$d %2$d"</string>
-    <string name="running_processes_item_description_s_p">"%1$d ו-% %2$d שירותים"</string>
-    <string name="running_processes_item_description_p_s">"%1$d תהליכים ושירות %2$d"</string>
-    <string name="running_processes_item_description_p_p">"%1$d התהליכים ו-% %2$d שירותים"</string>
     <string name="runningservicedetails_settings_title">"יישומים פעילים"</string>
     <string name="no_services">"לא פעיל"</string>
     <string name="runningservicedetails_services_title">"שירותים"</string>
