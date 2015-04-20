@@ -651,8 +651,8 @@
     <string name="operation_set_as_screensaver">הגדר כשומר מסך</string>
     <string name="operation_unset_as_screensaver">בטל שומר מסך</string>
     <string name="operation_add_picture">הוסף תמונות</string>
-    <string name="operation_add_secret">הוסף סוד</string>
-    <string name="operation_remove_secret">הסר סוד</string>
+    <string name="operation_add_secret">הוסף לאלבום חבוי</string>
+    <string name="operation_remove_secret">הסר מאלבום חבוי</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="global_setting">הגדרות</string>
     <string name="no_storage_disable_cloud_albums">אלבומי ענן מבוטלים. אנא נסה שנית לאחר שאחסון חיצוני נהיה זמין.</string>
