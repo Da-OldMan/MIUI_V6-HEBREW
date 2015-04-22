@@ -63,20 +63,20 @@
     <string name="audio_mode_speaker">רמקול</string>
     <string name="audio_mode_earpiece">חובר התקן אוזניה.</string>
     <string name="audio_mode_wired_headset">התקן אוזניה חוטי</string>
-    <string name="audio_mode_bluetooth">Bluetooth</string>
-    <string name="wait_prompt_str">"Send the following tones?
+    <string name="audio_mode_bluetooth">"בלוטות/"</string>
+    <string name="wait_prompt_str">"לשלוח את הצלילים הבאים?
 "</string>
-    <string name="pause_prompt_str">"Sending tones
+    <string name="pause_prompt_str">"שליחת צלילים
 "</string>
-    <string name="send_button">שלח</string>
-    <string name="pause_prompt_yes">כן</string>
-    <string name="pause_prompt_no">No</string>
-    <string name="wild_prompt_str">החלף תו כללי (*) עם</string>
-    <string name="modify_call_prompt_yes">כן</string>
-    <string name="modify_call_prompt_no">No</string>
-    <string name="modify_call_failure_str">"Modify Call request failed
+    <string name="send_button">"שלח"</string>
+    <string name="pause_prompt_yes">"כן"</string>
+    <string name="pause_prompt_no">"לא"</string>
+    <string name="wild_prompt_str">"החלף תו כללי (*) עם"</string>
+    <string name="modify_call_prompt_yes">"כן"</string>
+    <string name="modify_call_prompt_no">"לא"</string>
+    <string name="modify_call_failure_str">" שינוי בקשת השיחה נכשל
 "</string>
-    <string name="modify_call_option_title">איזה סוג של שיחה?</string>
+    <string name="modify_call_option_title">"איזה סוג של שיחה?"</string>
     <string name="modify_call_option_vt">VT</string>
     <string name="modify_call_option_vt_tx">שידור וידאו</string>
     <string name="modify_call_option_vt_rx">קבלת וידאו</string>
@@ -155,12 +155,9 @@
     <string name="disable">בטל</string>
     <string name="change_num">עדכן</string>
     <string name="vm_changed">מספר התא הקולי השתנה.</string>
-    <string name="vm_change_failed">"Couldn't change the voicemail number.
-Contact your carrier if this problem persists."</string>
-    <string name="fw_change_failed">"Couldn't change the forwarding number.
-Contact your carrier if this problem persists."</string>
-    <string name="fw_get_in_vm_failed">"Couldn't retrieve and save current forwarding number settings.
-Switch to the new provider anyway?"</string>
+    <string name="vm_change_failed">"לא יכול לשנות את מספר התא הקולי. צור קשר עם הספק שלך אם הבעיה נמשכת."</string>
+    <string name="fw_change_failed">"לא יכול לשנות את המספר להעברה. צור קשר עם הספק שלך אם הבעיה נמשכת."</string>
+    <string name="fw_get_in_vm_failed">"אינו יכול להשיב ולשמור את הגדרות מספר להעברה הנוכחיות. לעבור לספקית החדשה בכל מקרה?"</string>
     <string name="no_change">לא בוצעו שינויים.</string>
     <string name="sum_voicemail_choose_provider">בחר שירות תא קולי</string>
     <string name="voicemail_default">המפעילה הסלולרית שלי</string>
@@ -171,8 +168,8 @@ Switch to the new provider anyway?"</string>
     <string name="search_networks">מחפש רשתות</string>
     <string name="network_query_error">אירעה שגיאה בעת חיפוש רשתות.</string>
     <string name="register_on_network">מתחבר לרשת %s…</string>
-    <string name="not_allowed">"Your SIM card doesn't allow a connection to this network."</string>
-    <string name="connect_later">"Can't connect to this network right now. Try again later."</string>
+    <string name="not_allowed">"כרטיס ה- SIM שלך לא מאפשר חיבור לרשת זו."</string>
+    <string name="connect_later">"לא ניתן להתחבר לרשת הזאת עכשיו. נסה שוב מאוחר יותר."</string>
     <string name="registration_done">מחובר לרשת הסלולרית.</string>
     <string name="sum_carrier_select">בחר מפעילה רשת סלולרית.</string>
     <string name="sum_search_networks">חפש את כל הרשתות הזמינות</string>
@@ -201,7 +198,7 @@ Switch to the new provider anyway?"</string>
     <string name="roaming">נדידת נתונים</string>
     <string name="roaming_enable">להתחבר לשירותי אינטרנט סלולרי בעת נדידה</string>
     <string name="roaming_disable">התחבר לשירות נתונים בנדידה</string>
-    <string name="roaming_reenable_message">"You've lost data connectivity because you left your home network with data roaming turned off."</string>
+    <string name="roaming_reenable_message">"איבדת את קישוריות נתונים כיוון שעזבת את הרשת הביתית שלך עם נדידת נתונים כבויה."</string>
     <string name="roaming_warning">לאפשר נדידת נתונים? עלול לגרום לחיובי נדידה משמעותיים!</string>
     <string name="gsm_umts_options">אפשרויות GSM/UMTS</string>
     <string name="cdma_options">אפשרויות CDMA</string>
@@ -218,7 +215,7 @@ Data rate reduced to %2$d Kb/s"</string>
     <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
 Next period starts in %2$d days (%3$s)"</string>
     <string name="throttle_rate_subtext">קצב הנתונים קטן ל- %1$d Kb/s אם עברת את גבול צריכת הנתונים.</string>
-    <string name="throttle_help_subtext">"More information about your carrier's mobile network data use policy"</string>
+    <string name="throttle_help_subtext">"מידע נוסף על מדיניות השימוש בנתונים ברשת הניידת של הספק שלך"</string>
     <string name="cell_broadcast_sms">סמס בשידור תאי</string>
     <string name="enable_disable_cell_bc_sms">סמס בשידור תאי</string>
     <string name="cell_bc_sms_enable">סמסים בשידור תאי מאופשרים</string>
@@ -575,20 +572,20 @@ Try again or call customer service for more options."</string>
     <string name="respond_via_sms_edittext_dialog_title">תגובה מהירה</string>
     <string name="respond_via_sms_menu_reset_default_activity">אפס אפליקציית ברירת מחדל</string>
     <string name="respond_via_sms_confirmation_format">ההודעה נשלחה ל-%s.</string>
-    <string name="description_image_button_one">one</string>
-    <string name="description_image_button_two">two</string>
-    <string name="description_image_button_three">three</string>
-    <string name="description_image_button_four">four</string>
-    <string name="description_image_button_five">five</string>
-    <string name="description_image_button_six">six</string>
-    <string name="description_image_button_seven">seven</string>
-    <string name="description_image_button_eight">eight</string>
-    <string name="description_image_button_nine">nine</string>
-    <string name="description_image_button_star">star</string>
-    <string name="description_image_button_zero">zero</string>
-    <string name="description_image_button_pound">pound</string>
-    <string name="description_dial_button">dial</string>
-    <string name="description_delete_button">backspace</string>
+    <string name="description_image_button_one">"אחד"</string>
+    <string name="description_image_button_two">"שני"</string>
+    <string name="description_image_button_three">"שלוש"</string>
+    <string name="description_image_button_four">"ארבעה"</string>
+    <string name="description_image_button_five">"חמש"</string>
+    <string name="description_image_button_six">"שש"</string>
+    <string name="description_image_button_seven">"שבע"</string>
+    <string name="description_image_button_eight">"שמונה"</string>
+    <string name="description_image_button_nine">"תשע"</string>
+    <string name="description_image_button_star">"כוכב"</string>
+    <string name="description_image_button_zero">"אפס"</string>
+    <string name="description_image_button_pound">סולמית</string>
+    <string name="description_dial_button">חייג</string>
+    <string name="description_delete_button">מחק</string>
     <string name="accessibility_speakerphone_enabled">רמקול מופעל.</string>
     <string name="accessibility_call_muted">שיחה מושתקת.</string>
     <string name="voicemail_notification_vibrate_when_title">רטט</string>
@@ -629,16 +626,14 @@ Try again or call customer service for more options."</string>
     <string name="online_check_provider_name_by_cmb">בנק המסחר הסיני</string>
     <string name="online_check_warning_info_by_cmb">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal finances."</string>
     <string name="online_check_warning_type_by_cmb">דואר זבל</string>
-    <string name="livetalk_provider_info">Provided by %s</string>
-    <string name="livetalk_waiting">Waiting…</string>
-    <string name="jeejen_answer_call_text">Answer call</string>
-    <string name="jeejen_reject_call_text">Reject call</string>
-    <string name="jeejen_end_call_text">End call</string>
-    <string name="jeejen_toggle_dialpad_text">Dialpad</string>
-    <string name="jeejen_card_title_in_call" />
-    <string name="jeejen_card_title_on_hold" />
-    <string name="jeejen_card_title_dialing">Dialing</string>
-    <string name="jeejen_card_title_incoming_call">Incoming call</string>
-    <string name="jeejen_card_title_call_cancel">Call cancel</string>
-    <string name="jeejen_card_title_call_ended">Call ended</string>
+    <string name="livetalk_provider_info">מסופק על ידי %s</string>
+    <string name="livetalk_waiting">"מחכה ..."</string>
+    <string name="jeejen_answer_call_text">"שיחת תשובה"</string>
+    <string name="jeejen_reject_call_text">"דחיית שיחה"</string>
+    <string name="jeejen_end_call_text">"סיום שיחה"</string>
+    <string name="jeejen_toggle_dialpad_text">"לוח המקשים"</string>
+    <string name="jeejen_card_title_dialing">"חיוג"</string>
+    <string name="jeejen_card_title_incoming_call">"שיחה נכנסת"</string>
+    <string name="jeejen_card_title_call_cancel">"שיחה בוטלה"</string>
+    <string name="jeejen_card_title_call_ended">"שיחה הסתיימה"</string>
 </resources>
