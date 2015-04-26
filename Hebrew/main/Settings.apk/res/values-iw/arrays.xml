@@ -320,11 +320,7 @@
         <item>Removable SD card</item>
         <item>Let the system decide</item>
     </string-array>
-        <item>device</item>
-        <item>sdcard</item>
-        <item>auto</item>
-    </string-array>
-    <string-array name="app_ops_categories">
+     <string-array name="app_ops_categories">
         <item>Location</item>
         <item>Personal</item>
         <item>Messaging</item>

@@ -64,11 +64,6 @@
         <item>Sunday</item>
         <item>Monday</item>
     </string-array>
-        <item>-1</item>
-        <item>7</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="timezone_labels">
         <item>Marshall Islands</item>
         <item>Midway Island</item>
