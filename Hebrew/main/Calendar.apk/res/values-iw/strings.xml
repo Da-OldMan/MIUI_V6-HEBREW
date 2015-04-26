@@ -141,9 +141,6 @@
     <string name="preferences_show_week_num_title">"הצג מס' שבוע"</string>
     <string name="preferences_about_title">אודות</string>
     <string name="preferences_build_version">גרסה</string>
-    <string name="prefDefault_alerts_vibrateWhen">לעולם לא</string>
-    <string name="prefDefault_alerts_vibrate_true">תמיד</string>
-    <string name="prefDefault_alerts_vibrate_false">לעולם לא</string>
     <string name="prefDialogTitle_vibrateWhen">רטט</string>
     <string name="gadget_title">לוח שנה</string>
     <string name="gadget_no_events">אין אירועים צפויים בלוח השנה</string>
@@ -286,7 +283,6 @@
     <string name="birthday_notification_text_three_days_later">3 ימים ליום ההולדת (%3$s)</string>
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_type_term_lunar" />
-    <string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_event_description">היום הוא יום ההולדת של %1$s!</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
