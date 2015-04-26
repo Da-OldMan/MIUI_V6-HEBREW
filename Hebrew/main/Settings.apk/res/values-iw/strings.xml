@@ -211,7 +211,7 @@
     <string name="bluetooth_no_devices_found">"לא נמצא מכשירי Bluetooth סמוך."</string>
     <string name="bluetooth_notif_ticker">"בקשת Bluetooth להתאמת"</string>
     <string name="bluetooth_notif_title">"בקשת התאמה"</string>
-    <string name="bluetooth_notif_message">"הקשתי להתאים עם% 1 $ s כדי"</string>
+    <string name="bluetooth_notif_message">גע כדי להתאים עם %1$s.</string>
     <string name="bluetooth_show_received_files">"צג קבצים שהתקבל"</string>
     <string name="device_picker">"בחר Bluetooth ההתקן"</string>
     <string name="bluetooth_permission_request">"בקשה להרשאת Bluetooth"</string>

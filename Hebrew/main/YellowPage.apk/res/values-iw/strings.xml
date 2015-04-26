@@ -15,7 +15,7 @@
     <string name="network_unavaliable">רשת לא זמינה, אנא בדוק את הגדרות הרשת</string>
     <string name="service_unavailiable">השרות אינו זמין</string>
     <string name="data_error">סליחה, שירות זה אינו זמין כרגע, אנא נסה שוב מאוחר יותר</string>
-    <string name="locating_fail">"Couldn't find your location"</string>
+    <string name="locating_fail">"לא מצליח למצוא את המיקום שלך"</string>
     <string name="no_more_result">אין עוד תוצאות</string>
     <string name="downloading">מוריד…</string>
     <string name="download_completed">ההורדה הושלמה! הקובץ נשמר ל s%</string>
@@ -32,9 +32,9 @@
     <string name="menu_copy_text">העתק ללוח המקשים</string>
     <string name="menu_call_ip_number">חייג שיחת IP (חיוג% s)</string>
     <string name="toast_text_copied">הטקסט הועתק</string>
-    <string name="confirm_to_send_to_desktop">מקם % s על מסך הבית?</string>
+    <string name="confirm_to_send_to_desktop">מקם %s על מסך הבית?</string>
     <string name="sending_shortcut">שולח...</string>
-    <string name="send_shortcut_failed">"Couldn't send"</string>
+    <string name="send_shortcut_failed">"אי אפשר לשלוח"</string>
     <string name="send_shortcut_success">ממוקם על מסך הבית</string>
     <string name="group_name_banner" />
     <string name="group_name_basic" />
@@ -167,7 +167,6 @@ Total amount: RMB%3$s"</string>
     <string name="express_inquiry_button_text">מעקב</string>
     <string name="express_inquiry_serial_number_prefix">"Serial Number: "</string>
     <string name="express_inquiry_no_result">. אין תוצאות</string>
-    <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
     <string name="express_inquiry_data_owner_prefix">המידע על המעקב מסופק ע\"י</string>
     <string name="express_inquiry_data_owner_suffix" />
     <string name="scan">סרוק</string>
