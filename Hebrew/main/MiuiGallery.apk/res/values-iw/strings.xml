@@ -978,9 +978,7 @@
     <string name="no_such_album">Album not found</string>
     <string name="auto_upload_guide_title">Upload automatically</string>
     <string name="auto_upload_guide_msssage">"  Automatically upload your photos from other apps to Mi Cloud. View settings in &lt;font color=#323232>&lt;b>Gallery settings>Sync with Mi Cloud>Upload automatically&lt;/b>&lt;/font>.  "</string>
-    <string name="not_now">Not now</string>
-    <string name="go_setting">View settings</string>
-    <string name="picker_tab_local">@string/home_page_tab_local</string>
-    <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
+    <string name="not_now">לא כעת</string>
+    <string name="go_setting">הצג הגדרות</string>
     <string name="paint_crop_tips">To get a better image, please try to place its interest parts on grid points by resizing and moving.</string>
 </resources>
