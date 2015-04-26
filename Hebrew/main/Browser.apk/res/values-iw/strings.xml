@@ -671,9 +671,6 @@
     <string name="pref_data_preload_title">טוען תוצאת החיפוש</string>
     <string name="pref_data_preload_dialogtitle">טוען תוצאת החיפוש</string>
     <string name="pref_link_prefetch_title">טעינת עמוד אינטרנט מראש</string>
-    <string name="pref_link_prefetch_value_never">. מעולם לא</string>
-    <string name="pref_link_prefetch_value_wifi_only">WIFI בלבד</string>
-    <string name="pref_link_prefetch_value_always">תמיד</string>
     <string name="pref_link_prefetch_dialogtitle">טעינת עמוד אינטרנט מראש</string>
     <string name="pref_video_preload_title">טעינת ווידיאו מראש</string>
     <string name="pref_video_preload_dialogtitle">טעינת ווידיאו מראש...</string>
