@@ -531,7 +531,7 @@ After pressing “Activate”, listen to the instructions provided to activate y
     <string name="respond_via_sms_setting_summary">"עריכה תגובות טקסט שנכתבו מראש"</string>
     <string name="respond_via_sms_edittext_dialog_title">"תגובה מהירה"</string>
     <string name="respond_via_sms_menu_reset_default_activity">"שיחזור לברירת מחדל"</string>
-    <string name="respond_via_sms_confirmation_format">"%sהודעה נשלחה %s"</string>
+    <string name="respond_via_sms_confirmation_format">הודעה נשלחה ל %s.</string>
     <string name="description_image_button_one">"אחת"</string>
     <string name="description_image_button_two">"שתיים"</string>
     <string name="description_image_button_three">"שלוש"</string>
@@ -834,7 +834,6 @@ After pressing “Activate”, listen to the instructions provided to activate y
     <string name="msim_pref_title_voice">"חייג"</string>
     <string name="msim_pref_title_data">"אינטרנט"</string>
     <string name="msim_not_set_summary">"לא מוכן"</string>
-    <string name="msim_select_default_time_left">"%d%d s)"</string>
     <string name="msim_switch_data_conn_toast">"הגדרות רשת שונו להעדיף רשתות LTE. אתה יכול לשנות את זה בהגדרות כרטיס ה- SIM."</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">"SIM חריץ 2 תומך רק ברשתות GSM. סוג רשת מועדפת לחריץ זה השתנה ל2G בלבד."</string>
     <string name="msim_has_been_disabled">"מושבת)"</string>
