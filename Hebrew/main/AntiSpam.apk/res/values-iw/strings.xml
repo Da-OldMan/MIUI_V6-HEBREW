@@ -198,7 +198,7 @@
     <string name="ad_install_monitor_hint">בדוק אם יש תוכנת פרסום בעת התקנת אפליקציות</string>
     <string name="ad_update_setting">עדכון</string>
     <string name="ad_update_title">עדכן באופן אוטומטי</string>
-    <string name="ad_update_time">עדכון אחרון: s%</string>
+    <string name="ad_update_time">עדכון אחרון: %s</string>
     <string name="ad_update_time_unKnown">עדכון אחרון: לא ידוע</string>
     <string name="ad_block_hint">%d blocked</string>
     <string name="ad_single_block_hint">חסום</string>
@@ -272,8 +272,8 @@
     <string name="note_call_none">ריק</string>
     <string name="note_keyword_none">ריק</string>
     <string name="note_preference_delete">"Can't delete this rule while it's in use"</string>
-    <string name="block_message_number">הודעות: d%</string>
-    <string name="block_phone_number">שיחות: d%</string>
+    <string name="block_message_number">הודעות: %d</string>
+    <string name="block_phone_number">שיחות: %d</string>
     <string name="mark_fraud">Fraud</string>
     <string name="mark_agent">Sales</string>
     <string name="mark_sell">Telemarketer</string>
