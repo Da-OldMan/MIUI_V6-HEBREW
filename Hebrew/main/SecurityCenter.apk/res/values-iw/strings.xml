@@ -198,12 +198,12 @@
     <string name="power_screen">"מסך"</string>
     <string name="power_wifi">"WLAN"</string>
     <string name="power_bluetooth">"בלוטות'"</string>
-    <string name="power_cell">"המתנה תא"</string>
+    <string name="power_cell">"מקלט שידור סלולרי"</string>
     <string name="power_phone">"שיחות קוליות"</string>
-    <string name="power_idle">"סרק טלפון"</string>
+    <string name="power_idle">"מכשיר בהמתנה"</string>
     <string name="usage_type_cpu">"סך הכל CPU"</string>
     <string name="usage_type_cpu_foreground">"חזית CPU"</string>
-    <string name="usage_type_wake_lock">"להישאר ער"</string>
+    <string name="usage_type_wake_lock">"השאר ער"</string>
     <string name="usage_type_wifi_running">"ריצת WLAN"</string>
     <string name="usage_type_phone">"טלפון"</string>
     <string name="usage_type_data_wifi_send">"נתוני WLAN שנשלחו"</string>
