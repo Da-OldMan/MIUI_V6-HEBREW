@@ -10,8 +10,8 @@
   <string name="address">"כתובת"</string>
   <string name="afternoon">"PM"</string>
   <string name="am">"AM"</string>
-  <string name="app_name_which_call">Application:%s</string>
-  <string name="app_version_which_call">Application version:%s</string>
+  <string name="app_name_which_call">אפליקציה:%s</string>
+  <string name="app_version_which_call">גירסת אפליקציה:%s</string>
   <string name="birthday">"יום הולדת"</string>
   <string name="check_phone_error_title">"Sync כבוי"</string>
   <string name="check_phone_io_error">"לא ניתן להתחבר לרשת"</string>
