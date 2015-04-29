@@ -338,7 +338,7 @@
     <string name="card_title_unconditionalCF">"הפניית שיחה ללא תנאי הוא ב"</string>
     <string name="card_title_conditionalCF">"הפניית שיחה המותנה הוא ב"</string>
     <string name="card_title_MOcall_forwarding">"שיחה שהועברה יוצאת"</string>
-    <string name="card_title_calliswaiting">"שיחה ממתינים"</string>
+    <string name="card_title_calliswaiting">"שיחה ממתינה"</string>
     <string name="card_title_cugcall">"CUG שיחה"</string>
     <string name="card_title_outgoing_barred">"שיחות יוצאות אסורים"</string>
     <string name="card_title_incoming_barred">"שיחות נכנסות אסורים"</string>
@@ -750,7 +750,7 @@ After pressing “Activate”, listen to the instructions provided to activate y
     <string name="cfnry_title">"העבר שיחה כאשר לא נענה"</string>
     <string name="disable_all_cf">"כבה את כל תכונות להעברת שיחות"</string>
     <string name="call_settings_category">"שיחות"</string>
-    <string name="connect_disconnect_vibrate_title">"לרטוט כשהשיחה שלך ענתה"</string>
+    <string name="connect_disconnect_vibrate_title">"רטט בעת מענה שיחה"</string>
     <string name="connect_disconnect_vibrate_summary">"רטט כאשר האדם שאתה קורא עונה לשיחה שלך"</string>
     <string name="connect_disconnect_vibrate_none">"אף אחד"</string>
     <string name="connect_disconnect_vibrate_normal">"רגיל"</string>
@@ -774,7 +774,7 @@ After pressing “Activate”, listen to the instructions provided to activate y
     <string name="password_changed">"סיסמא השתנתה"</string>
     <string name="enter_callbarring_password">"הזן את סיסמת חסימת שיחות (4 ספרות)"</string>
     <string name="wrong_password">"הסיסמה שהזנת שגויה"</string>
-    <string name="call_waiting_title">"שיחה ממתינים"</string>
+    <string name="call_waiting_title">"שיחה ממתינה"</string>
     <string name="call_waiting_summary">"במהלך שיחה, הודע לי על שיחות נכנסות אחרות"</string>
     <string name="call_waiting_tone_title">"שיחה ממתינה הודעה"</string>
     <string name="call_waiting_tone_stop_summary">""</string>
