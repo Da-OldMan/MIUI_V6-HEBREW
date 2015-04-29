@@ -35,7 +35,7 @@
   <string name="label">"MIUI SDK"</string>
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, 
 go to %s"</string>
-  <string name="loading">"Loading ..."</string>
+  <string name="loading">"טוען ..."</string>
   <string name="mibi_license">"תנאי אשראי Mi של שירות"</string>
   <string name="midnight">"AM"</string>
   <string name="monday">"יום שני"</string>
