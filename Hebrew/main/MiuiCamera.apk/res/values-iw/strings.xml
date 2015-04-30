@@ -155,7 +155,6 @@
     <string name="pref_camera_iso_entry_iso1600">"ISO1600"</string>
     <string name="pref_camera_iso_entry_iso3200">"ISO3200"</string>
     <string name="pref_camera_antibanding_title">"אנטי פסים "</string>
-    <string name="pref_camera_antibanding_60">"60Hz"</string>
     <string name="pref_camera_antibanding_entry_0">"כבוי"</string>
     <string name="pref_camera_antibanding_entry_1">"50 הרץ"</string>
     <string name="pref_camera_antibanding_entry_2">"60 הרץ"</string>
@@ -259,10 +258,9 @@
     <string name="pref_camera_exposuretime_entry_125">"1 / 125s"</string>
     <string name="pref_camera_exposuretime_entry_250">"1 / 250s"</string>
     <string name="pref_camera_exposuretime_entry_1000">"1 / 1000s"</string>
-    <string name="face_analyze_info">Age: %2$s (%1$s)</string>
+    <string name="face_analyze_info">גיל: %2$s (%1$s)</string>
     <string name="face_analyze_info_male">"זכר"</string>
     <string name="face_analyze_info_female">"נקבה"</string>
-    <string name="camera_face_beauty_simple_mode_open">"אני: 2"</string>
     <string name="face_beauty_intelligent_level_0">"כבוי"</string>
     <string name="face_beauty_intelligent_level_1">"נמוך"</string>
     <string name="face_beauty_intelligent_level_2">"אמצע"</string>
