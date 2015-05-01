@@ -76,10 +76,8 @@
     <string name="pref_camera_coloreffect_entry_yesteryear">"אֶשׁתָקַד"</string>
     <string name="pref_camera_coloreffect_entry_brannan">"שחר"</string>
     <string name="pref_camera_coloreffect_entry_sketch">"סקיצה"</string>
-    <string name="pref_camera_coloreffect_entry_seventy">"1970"</string>
     <string name="pref_camera_coloreffect_entry_fisheye">"עין דג"</string>
     <string name="pref_camera_coloreffect_entry_jstyle">"יפני"</string>
-    <string name="pref_camera_coloreffect_entry_xproii">"XProII"</string>
     <string name="pref_camera_coloreffect_entry_mosaic">"פסיפס"</string>
     <string name="pref_camera_coloreffect_entry_earlybird">"סתיו"</string>
     <string name="pref_camera_coloreffect_entry_nashvile">"אינדיגו"</string>
@@ -121,9 +119,6 @@
     <string name="pref_camera_antibanding_entry_3">"אוטמטי"</string>
     <string name="dialog_ok">"אישור"</string>
     <string name="spaceIsLow_content">"אין מקום בכרטיס זיכרון"</string>
-    <string name="image_file_name_format">"\"IMG'_yyyyMMdd_HHmmss"</string>
-    <string name="video_file_name_format">"\"VID'_yyyyMMdd_HHmmss"</string>
-    <string name="pano_file_name_format">"\"PANO'_yyyyMMdd_HHmmss"</string>
     <string name="video_reach_size_limit">"הגעת לגבול של הגודל"</string>
     <string name="pref_camera_hfr_entry_off">"כבוי"</string>
     <string name="pref_video_speed_title">"מהירות לכידת סירטון"</string>
