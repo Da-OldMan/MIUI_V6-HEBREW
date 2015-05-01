@@ -77,6 +77,8 @@
     <string name="pref_camera_jpegquality_entry_low">"נמוך"</string>
     <string name="pref_camera_histogram_entry_enable">"הדלק"</string>
     <string name="pref_camera_histogram_entry_disable">"כבה"</string>
+    <string name="pref_camera_histogram_value_enable">"אפשר"</string>
+    <string name="pref_camera_histogram_value_disable">"להשבית"</string>
     <string name="pref_camera_focusmode_title">"מצב פוקוס"</string>
     <string name="pref_camera_focusmode_entry_auto">"Auto"</string>
     <string name="pref_camera_focusmode_entry_normal">"רגיל"</string>
@@ -213,7 +215,6 @@
     <string name="pref_camera_referenceline_title">"הצג קווי רשת"</string>
     <string name="pref_camera_volumekey_function_entry_volume">"ווליום"</string>
     <string name="pref_camera_volumekey_function_entry_shutter">"תריס"</string>
-    <string name="pref_camera_volumekey_function_entry_zoom">"זום"</string>
     <string name="pref_camera_volumekey_function_entry_exposure">"חשיפה"</string>
     <string name="pref_camera_volumekey_function_title">"פונקציה לחצני עוצמת קול"</string>
     <string name="error_fail_to_start_audio_capture">"לא יכולתי להתחיל לכידת אודיו"</string>
@@ -237,7 +238,6 @@
     <string name="pref_camera_watermark_title">"Time watermark"</string>
     <string name="accessibility_flash_mode_button">"FlashButton"</string>
     <string name="accessibility_skin_beautify_button">"SkinBeautifyButton"</string>
-    <string name="accessibility_module_picker">"ModulePicker"</string>
     <string name="pref_camera_hdr_title">"HDR"</string>
     <string name="pref_setting_title">"הגדרות"</string>
     <string name="pref_scan_qrcode_title">"סריקת קודי QR"</string>
@@ -283,7 +283,6 @@
     <string name="face_beauty_age_alias_female_60_m">"60 + נקבה"</string>
     <string name="simple_mode_button_text_face_beauty">"כבה מצב לייפות"</string>
     <string name="pref_face_beauty_title">"לייפות"</string>
-    <string name="pref_face_beauty_close">"אני: 0"</string>
     <string name="toast_cannot_preview_image_when_screen_locked">"לא יכול לצפות בתמונות בזמן שמכשיר נעול"</string>
     <string name="pref_priority_storage_title">"שמור לכרטיס SD"</string>
     <string name="setting_top_text">"מצבי מצלמה"</string>
@@ -295,9 +294,6 @@
     <string name="pref_capture_settings">"מצלמה"</string>
     <string name="pref_camcorder_settings">"סירטון"</string>
     <string name="pref_advance_settings">"הגדרות נוספות"</string>
-    <string name="accessibility_video_pause_button">"VideoPauseButton"</string>
-    <string name="accessibility_video_capture_button">"VideoCaptureButton"</string>
-    <string name="accessibility_seek_bar_line">"SeekBarLine"</string>
     <string name="accessibility_setting_button">"כפתור הגדרות נוספות"</string>
     <string name="pref_camera_auto_chroma_flash_title">"הבזק Chroma"</string>
     <string name="pref_camera_ubifocus_title">"פוקוס חוזר"</string>
@@ -349,5 +345,4 @@
     <string name="pref_camera_peak_title">"שיא פוקוס"</string>
     <string name="pref_camera_peak_entry_off">"כבוי"</string>
     <string name="pref_camera_peak_entry_on">"פעיל"</string>
-    <string name="hide_priority_in_system_settings">"0"</string>
 </resources>  
