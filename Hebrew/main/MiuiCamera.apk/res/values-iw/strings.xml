@@ -47,8 +47,6 @@
     <string name="pref_camera_jpegquality_entry_low">"נמוך"</string>
     <string name="pref_camera_histogram_entry_enable">"הדלק"</string>
     <string name="pref_camera_histogram_entry_disable">"כבה"</string>
-    <string name="pref_camera_histogram_value_enable">"אפשר"</string>
-    <string name="pref_camera_histogram_value_disable">"להשבית"</string>
     <string name="pref_camera_focusmode_title">"מצב פוקוס"</string>
     <string name="pref_camera_focusmode_entry_normal">"רגיל"</string>
     <string name="pref_camera_focusmode_entry_infinity">"אינפיניטי"</string>
