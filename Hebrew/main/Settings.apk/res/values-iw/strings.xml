@@ -2164,7 +2164,7 @@
     <string name="title_font">"גופן"</string>
     <string name="title_font_current">"בחר גופן מערכת"</string>
     <string name="title_layout_current">"בחר את גודל גופן"</string>
-    <string name="handy_mode">"מצב-One בידיים"</string>
+    <string name="handy_mode">"מצב יד אחת"</string>
     <string name="handy_mode_enable">"מצב-One בידיים"</string>
     <string name="handy_mode_tips">"חלק את האצבע שמאלה או ימינה מכפתור הבית כדי למשוך את המסך קרוב יותר לצד אחד."</string>
     <string name="handy_mode_size">"גודל מסך"</string>
