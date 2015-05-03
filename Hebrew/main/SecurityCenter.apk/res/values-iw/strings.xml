@@ -145,7 +145,7 @@
     <string name="power_save_on_time_option_summary">"בסופו של מכשיר תקופה זו תהיה לחזור לפרופיל שימוש לאחרונה"</string>
     <string name="power_save_on_time_default_time">"0:00"</string>
     <string name="power_consume_rank_title">"שימוש בסוללה"</string>
-    <string name="power_consume_rank_software">"יישומי"</string>
+    <string name="power_consume_rank_software">"יישומים"</string>
     <string name="power_consume_rank_hardware">"חומרה"</string>
     <string name="power_consume_total_software">"%1$d %%"</string>
     <string name="power_consume_total_hardware">"%1$d %%"</string>
