@@ -175,8 +175,8 @@
     <string name="power_mode_my_mode_summary">"שמור הגדרות הסוללה הנוכחיות שלך"</string>
     <string name="power_apply_toast">"עבר %s"</string>
     <string name="power_customize_giveup_change">"לבטל את השינויים?"</string>
-    <string name="menu_item_force_stop">"הופסק בכח"</string>
-    <string name="menu_item_uninstall">"Uninstall"</string>
+    <string name="menu_item_force_stop">"כפה סגירה"</string>
+    <string name="menu_item_uninstall">"הסר התקנה"</string>
     <string name="menu_item_app_details">"פרטים"</string>
     <string name="hints_power_percent_title">"סוללה"</string>
     <string name="details_subtitle">"פרטי שימוש"</string>
