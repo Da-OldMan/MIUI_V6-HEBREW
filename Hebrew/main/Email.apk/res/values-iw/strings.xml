@@ -28,11 +28,9 @@
     <string name="account_options_acc_title">"חשבון"</string>
     <string name="account_options_common_title">"כללי"</string>
     <string name="account_options_sync_title">"סינכרון"</string>
-    <string name="account_options_sync_title">"סינכרון"</string>
     <string name="account_password_spaces_error">"סיסמא זו מתחילה או מסתיימת בתווי רווח אחד או יותר. שרתים רבים אינם תומכים בסיסמות עם רווחים."</string>
     <string name="account_security_dialog_content_fmt">"%s דורש שתעדכן את הגדרות האבטחה שלך."</string>
     <string name="account_security_dialog_title">"עדכון אבטחה"</string>
-    <string name="account_security_title">"אבטחת מכשיר"</string>
     <string name="account_security_title">"אבטחת מכשיר"</string>
     <string name="account_set_up_change_type_note">"אם אתה צריך לעבור בין הגדרות POP3 ו- IMAP, למחוק את החשבון שלך וליצור אחד חדש עם הגדרות רצויות."</string>
     <string name="account_set_up_notice">"הגדרת תיבת הדואר שלך במרחק צעדים ספורים"</string>
@@ -115,7 +113,6 @@
     <string name="account_setup_failed_dlg_server_message_fmt">"לא ניתן להתחבר לשרת. %s"</string>
     <string name="account_setup_failed_dlg_title">"לא יכולתי להגדיר את חשבון"</string>
     <string name="account_setup_failed_ioerror">"לא ניתן לפתוח חיבור לשרת."</string>
-    <string name="account_setup_failed_ioerror">"לא ניתן לפתוח חיבור לשרת."</string>
     <string name="account_setup_failed_security">"לא ניתן לפתוח חיבור לשרת בשל שגיאת אבטחה."</string>
     <string name="account_setup_failed_security_policies_unsupported">"שרת זה דורש תכונות אבטחה שמכשיר Android שלך אינו תומך, %s"</string>
     <string name="account_setup_failed_tls_required">"TLS נדרש אך אינו נתמך על ידי שרת."</string>
@@ -178,7 +175,6 @@
     <string name="account_setup_outgoing_smtp_server_label">"שרת SMTP"</string>
     <string name="account_setup_outgoing_title">"הגדרת חשבון"</string>
     <string name="account_setup_outgoing_username_label">"שם משתמש"</string>
-    <string name="account_setup_security_required_title">"ניהול אבטחה מרחוק"</string>
     <string name="account_setup_security_required_title">"ניהול אבטחה מרחוק"</string>
     <string name="account_setup_server_acc_manager_title">"חשבונות"</string>
     <string name="account_setup_service_not_set">"חשבון לא הותקן"</string>
@@ -627,7 +623,6 @@
     <string name="password_expire_warning_content_title">"פגה סיסמת מסך נעילה"</string>
     <string name="password_expire_warning_dialog_title">"פגה סיסמא מסך נעילה"</string>
     <string name="password_expire_warning_dialog_content_fmt">"אתה צריך לשנות את ה- PIN נעילת המסך או את הסיסמה שלך בקרוב, או נתונים %s יימחקו. האם אתה רוצה לשנות את זה עכשיו?"</string>
-    <string name="password_expire_warning_dialog_title">"פגה סיסמא מסך נעילה"</string>
     <string name="password_expire_warning_ticker_fmt">"%s מחייב אותך לשנות את הקוד הסודי שלך נעילת מסך או הסיסמה."</string>
     <string name="password_expired_content_title">"פגה סיסמת מסך נעילה"</string>
     <string name="password_expired_dialog_content_fmt">"נתונים %s  נמחקו מהמכשיר שלך. אתה יכול לשחזר אותם על ידי שינוי הקוד הסודי שלך נעילת מסך או סיסמא. האם אתה רוצה לשנות את זה עכשיו?"</string>
@@ -765,7 +760,6 @@
     <string name="search_title">"דוא\"ל מאוחד"</string>
     <string name="search_txt_size_limit_prompt">"מונחי חיפוש חייבים להיות גדולים מ 3 תווים"</string>
     <string name="search_unsupported">"חיפוש אינו נתמך בחשבון זה."</string>
-    <string name="security_needed_ticker_fmt">"חשבון %s דורש עדכון הגדרות אבטחה."</string>
     <string name="security_changed_ticker_fmt">"חשבון %s שינה את הגדרות האבטחה שלו; אין פעולת משתמש נדרש."</string>
     <string name="security_needed_ticker_fmt">"חשבון %s דורש עדכון הגדרות אבטחה."</string>
     <string name="security_notification_content_change_title">"מדיניות האבטחה השתנתה"</string>
@@ -871,7 +865,6 @@
     <string name="wait_for_sync_body_txt_array_5">"."</string>
     <string name="wait_for_sync_note">"הקש כדי להשלים את ההגדרה."</string>
     <string name="wait_for_sync_title">"מספר העוקבים לסינכרון"</string>
-    <string name="wait_help_context">"לחכות"</string>
     <string name="widget_all_mail">"כל הדואר"</string>
     <string name="widget_large_unread_count">"%d+"</string>
     <string name="widget_other_views">"אחר"</string>
