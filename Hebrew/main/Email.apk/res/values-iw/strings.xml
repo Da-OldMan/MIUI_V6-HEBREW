@@ -789,14 +789,11 @@
     <string name="signature">"
     <string name="signin">"הירשם"</string>
     <string name="silent_ringtone">"שקט"</string>
-    <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
-    <string name="single_new_message_notification_title">"%1$s %2$s"</string>
     <string name="sort_attachment">"מיין לפי"</string>
     <string name="status_network_error">"לא ניתן להתחבר לרשת. בדוק את חיבור הנתונים שלך ונסה שוב."</string>
     <string name="storage">"אחסון"</string>
     <string name="str_select_all">"בחר הכל"</string>
     <string name="str_select_none">"ביטול בחירה של כל"</string>
-    <string formatted="false" name="subject_and_snippet">"%s %s"</string>
     <string name="subject_hint">"נושא"</string>
     <string name="swipe_down_to_refresh">"חלק מטה כדי לרענן"</string>
     <string name="switch_as_tranditional_view">"צפה מסורתי"</string>
@@ -848,11 +845,6 @@
     <string name="upload_log_yes">"העלאה"</string>
     <string name="uploading_logs">"היומנים הם מועאלים"</string>
     <string name="validation_failed_prompt">"לא יכול לאמת את החשבון, %s הגדרות שרת"</string>
-    <string name="veiled_address">""</string>
-    <string name="veiled_alternate_text">""</string>
-    <string name="veiled_alternate_text_unknown_person">""</string>
-    <string name="veiled_summary_unknown_person">""</string>
-    <string name="via_domain">"%1$s"</string>
     <string name="view_more_conversations">"הצג יותר שיחות"</string>
     <string name="wait_for_sync_body">"הדוא\"ל שלך יופיע בקרוב."</string>
     <string name="wait_for_sync_body_2">"שרת Exchange ינחה אותך ב1-30 שניות. לאשר את הגדרות אבטחה ולהפעיל תיבת הדואר שלך."</string>
@@ -864,7 +856,6 @@
     <string name="wait_for_sync_note">"הקש כדי להשלים את ההגדרה."</string>
     <string name="wait_for_sync_title">"מספר העוקבים לסינכרון"</string>
     <string name="widget_all_mail">"כל הדואר"</string>
-    <string name="widget_large_unread_count">"%d+"</string>
     <string name="widget_other_views">"אחר"</string>
     <string name="wrong_password">"הסיסמה שהזנת שגויה"</string>
     <string name="yes">"כן"</string>
