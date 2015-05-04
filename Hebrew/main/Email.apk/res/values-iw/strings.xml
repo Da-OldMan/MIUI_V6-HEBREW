@@ -291,7 +291,6 @@
     <string name="collapse_recipient_details">"מוטט פרטי נמען "</string>
     <string name="colon">":"</string>
     <string name="compose">"צור"</string>
-    <string name="compose_help_context">"צור"</string>
     <string name="compose_send">"שלח"</string>
     <string name="compose_sent">"נשלח בהצלחה"</string>
     <string name="confirm">"אישור"</string>
@@ -325,7 +324,6 @@
     <string name="contextmenu_send_mail">"שלח דואר אלקטרוני"</string>
     <string name="contextmenu_sharelink">"שתף קישור"</string>
     <string name="contextmenu_sms_dot">"סמס ..."</string>
-    <string name="conversation_content_provider">"שיחת ספק תוכן"</string>
     <string name="conversation_folder_moved">"עברתי %1$s"</string>
     <string name="conversation_item_mark_read">"נקראו"</string>
     <string name="conversation_item_mark_unread">"לא נקראו"</string>
