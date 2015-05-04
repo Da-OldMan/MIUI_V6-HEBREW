@@ -540,7 +540,6 @@
     <string name="message_body_auto_download_tip">"הדואר שלך ירד באופן אוטומטי כאשר אתה מחובר ל- Wi-Fi."</string>
     <string name="message_body_download_failed">"לא יכולתי להוריד דואר. חיבור הופסק."</string>
     <string name="message_body_loading">"טוען..."</string>
-    <string name="message_compose_fwd_header_fmt">"
     <string name="message_compose_insert_quick_response_list_title">"הכנס תשובה מהירה"</string>
     <string name="message_compose_insert_quick_response_menu_title">"הכנס תשובה מהירה"</string>
     <string name="message_decode_error">"לא יכול לפענח את ההודעה"</string>
@@ -786,7 +785,6 @@
     <string name="show_elided">"▶ הצג טקסט מצוטט"</string>
     <string name="show_images">"תמונות להורדה והצגה"</string>
     <string name="show_n_more_folders">"%1$s יותר תיקיות"</string>
-    <string name="signature">"
     <string name="signin">"הירשם"</string>
     <string name="silent_ringtone">"שקט"</string>
     <string name="sort_attachment">"מיין לפי"</string>
@@ -862,4 +860,3 @@
     <string name="you_are_in_mobile_network">"אתה משתמש ברשת סלולרית עכשיו"</string>
     <string name="zip_viewer_no_file">"אין קבצים."</string>
 </resources>
-
