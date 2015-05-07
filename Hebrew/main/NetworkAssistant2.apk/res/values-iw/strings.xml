@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="list_empty_text">"ריק"</string>
     <string name="main_button_normal_traffic">"שיא"</string>
     <string name="main_button_idel_traffic">"מחוץ לשעות שיא"</string>
@@ -33,11 +32,6 @@
     <string name="main_secondary_message_traffic_used_leisure">"%s נתוני שימוש בשפל "</string>
     <string name="main_secondary_message_traffic_remain">"נותר "</string>
     <string name="main_secondary_message_traffic_over">"עבר את הגבול "</string>
-    <string name="main_secondary_message_traffic_detail_normal">"
-Peak: %1$s%2$s | %3$s used"</string>
-    <string name="main_secondary_message_traffic_detail_leisure">"
-
-
     <string name="main_secondary_message_traffic_used_noleisure">"%s נתונים בשימוש שיא | לא נותרו נתונים בשימוש שפל"</string>
     <string name="main_alert_message_month_limit_error">"מגבלת הנתונים שאתה מגדיר היא שגויה"</string>
     <string name="firewall_activity_lable">"להגביל את השימוש בנתונים על ידי יישום"</string>
