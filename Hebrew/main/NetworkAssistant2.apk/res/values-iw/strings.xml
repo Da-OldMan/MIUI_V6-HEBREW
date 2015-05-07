@@ -187,12 +187,6 @@
     <string name="lock_screen_traffic_warn_title">"התרעות במסך נעילה"</string>
     <string name="lock_screen_traffic_notify_body">"Locked for %2$s at %1$s, data used %3$s"</string>
     <string name="lock_screen_setting_summary">"הצג התרעה כאשר השתמשת מעל ל100KB בפחות מ -2 ימים"</string>
-    <string name="timeshow_h_m">"%1$dh %2$dm"</string>
-    <string name="timeshow_m_s">"%1$dm %2$ds"</string>
-    <string name="timeshow_s">"%d%d s)"</string>
-    <string name="timeshow_m">"%dm"</string>
-    <string name="timeshow_h">"% .1fh"</string>
-    <string name="timeshow_h_int">"%d h"</string>
     <string name="lock_screen_traffic_guide_notification_title">"שימוש%s של נתונים ניידים"</string>
     <string name="lock_screen_traffic_guide_notification_summary">"נתונים סלולריים לשימוש במסך נעילה."</string>
     <string name="lock_screen_traffic_purchase_textview">"קנה נתונים לנייד"</string>
