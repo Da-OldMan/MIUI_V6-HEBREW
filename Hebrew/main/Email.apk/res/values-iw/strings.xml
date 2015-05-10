@@ -21,7 +21,7 @@
     <string name="account_duplicate_dlg_message_fmt">"אתה כבר משתמש בשם משתמש זה ל\ החשבון %s \\"."</string>
     <string name="account_duplicate_dlg_title">"חשבון כפול"</string>
     <string name="account_folder_list_summary_drafts">"טיוטות"</string>
-    <string name="account_folder_list_summary_inbox">"תיבת הדואר נכנס"</string>
+    <string name="account_folder_list_summary_inbox">"תיבת דואר נכנס"</string>
     <string name="account_folder_list_summary_outbox">"תיבת דואר יוצא"</string>
     <string name="account_folder_list_summary_starred">"כיכב"</string>
     <string name="account_name_toast">"חשבון עם אותו שם כבר קיים"</string>
@@ -484,7 +484,7 @@
     <string name="mail_header_network_not_available">"אין לך חיבור לרשת."</string>
     <string name="mailbox_list_account_selector_combined_view">"תיבת הדואר הנכנס משולב"</string>
     <string name="mailbox_name_display_drafts">"טיוטות"</string>
-    <string name="mailbox_name_display_inbox">"תיבת הדואר הנכנס"</string>
+    <string name="mailbox_name_display_inbox">"תיבת דואר נכנס"</string>
     <string name="mailbox_name_display_junk">"ספאם"</string>
     <string name="mailbox_name_display_outbox">"תיבת דואר יוצא"</string>
     <string name="mailbox_name_display_sent">"נשלח"</string>
