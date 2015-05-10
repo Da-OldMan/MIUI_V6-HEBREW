@@ -96,7 +96,7 @@
     <string name="get_order_dialog_msg">"מקבל מידע כדי ..."</string>
     <string name="get_account_dialog_msg">"מקבל פרטי חשבון ..."</string>
     <string name="display_expire_netiv1">"החודש"</string>
-    <string name="add_flow_success_msg">"%הוסיפה החודש s"</string>
+    <string name="add_flow_success_msg">%s נוסף החודש</string>
     <string name="add_flow_fail_vip_msg">"מאיץ הורדת Xunlei פעיל"</string>
     <string name="add_flow_fail_haveget_msg">"תקופת ניסיון פגה."</string>
     <string name="download_list_open_xl_title">"מאיץ הורדת Xunlei"</string>
