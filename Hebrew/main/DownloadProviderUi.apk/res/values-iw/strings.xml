@@ -1,5 +1,5 @@
 <resources>
-    <string name="dialog_confirm_delete_downloads_message">"מחק %d משימות?"</string>
+    <string name="dialog_confirm_delete_downloads_message"> מחק %d משימות?</string>
     <string name="dialog_confirm_delete_the_download_item_message">"מחק משימות אלה"</string>
     <string name="dialog_confirm_delete_checkbox_message">"מחיקת קבצים מקומיים גם"</string>
     <string name="download_when_network_connected">"הורד באמצעות חיבור נתונים"</string>
@@ -8,7 +8,7 @@
     <string name="download_wait_connect">"הורדה מחכה לחיבור"</string>
     <string name="download_filesize_unknown">"לא ידוע"</string>
     <string name="download_info_start_deleted_tasks">"מחק הורדות"</string>
-    <string name="download_info_count_deleted_tasks">"%הורדות הוסרו s"</string>
+    <string name="download_info_count_deleted_tasks">%s הורדות הוסרו</string>
     <string name="menu_preferences">"הגדרות הורדות"</string>
     <string name="menu_all_task_pause">"להשהות את הכל"</string>
     <string name="menu_all_task_start">"התחל הכל"</string>
@@ -26,7 +26,7 @@
     <string name="paused_waiting_for_network">"מחכה לרשת"</string>
     <string name="paused_waiting_to_retry">"מחכה לניסיון חוזר"</string>
     <string name="paused_unknown">"מושהה"</string>
-    <string name="confirm_delete_downloads_message">"% הורדות ימחקו d."</string>
+    <string name="confirm_delete_downloads_message">%d הורדות ימחקו.</string>
     <string name="confirm_delete_the_download_item_message">"מחק הורדות אלו?"</string>
     <string name="delete_the_downloaded_file">"קבצים שהורדו יימחקו."</string>
     <string name="downloads_operating">"עובד ..."</string>
@@ -35,7 +35,7 @@
     <string name="pref_download_settings_title">"מגבלת גודל ההורדה"</string>
     <string name="pref_title_enable_max_bytes_popup">"פקודת הצג שימוש נתונים"</string>
     <string name="pref_summary_enable_max_bytes_popup">"הצג הודעה קופצת בעת שימוש בחיבור נתונים כדילהוריד תוכן"</string>
-    <string name="pref_summary_max_bytes_limit_format">"חכה לWLAN אם גודל הקבצים גדול %s"</string>
+    <string name="pref_summary_max_bytes_limit_format">חכה לרשת אלחוטית אם גודל הקבצים גדול מ %s</string>
     <string name="pref_summary_any_bytes_popup">"תמיד להמתין לחיבור WLAN כדי להוריד קבצים"</string>
     <string name="pref_summary_no_limit_popup">"ללא הגבלה"</string>
     <string name="download_in_process">"מוריד..."</string>
@@ -52,7 +52,7 @@
     <string name="editmode_menu_share">"שתף"</string>
     <string name="editmode_menu_delete">"מחק"</string>
     <string name="all_downloads">"כל ההורדות"</string>
-    <string name="app_downloads">"%הורדות s"</string>
+    <string name="app_downloads">%s הורדות</string>
     <string name="dialog_file_missing_title">"לא מצליח לפתוח את הקובץ"</string>
     <string name="paused_insufficient_space">"מחכה למספיק מקום"</string>
     <string name="all_fileter">"כל"</string>
@@ -146,6 +146,6 @@
     <string name="retry_download">"נסה שוב"</string>
     <string name="deselect_all">"הסר כל המסומנים"</string>
     <string name="select_all">"בחר הכל"</string>
-    <string name="selected_count">Selected %1$d out of %2$d</string>
+    <string name="selected_count">נבחר %1$d מתוך %2$d</string>
     <string name="download_share_dialog">"שתף באמצעות"</string>
 </resources>
