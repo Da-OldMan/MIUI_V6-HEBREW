@@ -11,9 +11,8 @@
     <string name="privacy_notif_content">"גע כדי להציג פרטים."</string>
     <string name="notif_text_engine_on">"מאיץ ..."</string>
     <string name="notif_text_engine_off">"מאיץ Xunlei כבוי."</string>
-    <string name="notif_title_single_downloading">"%1$s"</string>
-    <string name="notif_title_multiple_downloading">"הורדת %1$d קבצים"</string>
-    <string name="notif_title_file_size">"%1$d סה\"כ"</string>
+    <string name="notif_title_multiple_downloading">מוריד %1$d קבצים</string>
+    <string name="notif_title_file_size">%1$d סך הכל</string>
     <string name="paused_waiting_for_network">"מחכה לרשת"</string>
     <string name="warning_tip_title">"אזהרת שימוש בנתונים"</string>
     <string name="warning_tip_content">"אתה כבר לא מחובר לרשת אלחוטית. שימוש בחיבור הנתונים הנייד שלך כדי להשלים הורדה זו תגדיל את השימוש בנתונים שלך. אם אתה הולך מעבר לגבול הנתונים של התכנית שלך, הספק שלך יכול לחייב אותך בתשלום נוסף."</string>
@@ -35,7 +34,7 @@
     <string name="permdesc_downloadWithoutNotification">"מאפשר ליישום להוריד קבצים דרך מנהל ההורדות מבלי להציג התראות כלשהן למשתמש."</string>
     <string name="permlab_accessAllDownloads">"גישה לכל הורדות המערכת"</string>
     <string name="permdesc_accessAllDownloads">"מאפשר ליישום להציג ולשנות את כל ההורדות שהופעלו על ידי יישום כלשהו במערכת."</string>
-    <string name="download_unknown_title">"&lt;ללא כותרת&gt;"</string>
+    <string name="download_unknown_title">&lt;ללא שם></string>
     <string name="notification_download_complete">"הורד מלא."</string>
     <string name="notification_download_failed">"הורדה נכשלה."</string>
     <string name="notification_need_wifi_for_size">"גודל הורדה דורש WIFI."</string>
@@ -47,7 +46,6 @@
     <string name="button_queue_for_wifi">"תור"</string>
     <string name="button_cancel_download">"בטל"</string>
     <string name="button_start_now">"התחל עכשיו"</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_remaining">"% שמאלs"</string>
     <string name="download_no_application_title">"לא יכול לפתוח את הקובץ"</string>
     <string name="root_downloads">"הורדות"</string>
