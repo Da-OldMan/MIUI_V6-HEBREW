@@ -736,7 +736,7 @@ After pressing “Activate”, listen to the instructions provided to activate y
     <string name="sum_cfnry_enabled">"שילוח ל{ 0}"</string>
     <string name="sum_cfnry_disabled">"כבוי"</string>
     <string name="disable_cfnry_forbidden">"הספק שלך אינו תומך בכיבוי להעברת שיחות לשיחות שלא נענו."</string>
-    <string name="labelCFNRc">"קדימה כאשר לא ניתן להגיע"</string>
+    <string name="labelCFNRc">"העבר כאשר לא זמין"</string>
     <string name="messageCFNRc">"העברת שיחות ל"</string>
     <string name="sum_cfnrc_enabled">"שילוח ל{ 0}"</string>
     <string name="sum_cfnrc_disabled">"כבוי"</string>
@@ -751,7 +751,7 @@ After pressing “Activate”, listen to the instructions provided to activate y
     <string name="disable_all_cf">"כבה את כל תכונות להעברת שיחות"</string>
     <string name="call_settings_category">"שיחות"</string>
     <string name="connect_disconnect_vibrate_title">"רטט בעת מענה שיחה"</string>
-    <string name="connect_disconnect_vibrate_summary">"רטט כאשר האדם שאתה קורא עונה לשיחה שלך"</string>
+    <string name="connect_disconnect_vibrate_summary">"רטט כאשר השיחה נענית על ידי הצד השני"</string>
     <string name="connect_disconnect_vibrate_none">"אף אחד"</string>
     <string name="connect_disconnect_vibrate_normal">"רגיל"</string>
     <string name="connect_disconnect_vibrate_weak">"אור"</string>
