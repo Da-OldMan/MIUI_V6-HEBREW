@@ -307,7 +307,7 @@
     <string name="sdcard_settings_used_bytes_label">ניצול נפח (בייטים):</string>
     <string name="sdcard_settings_scanning_status">סורק כרטיס SD למציאת מדיה ...</string>
     <string name="sdcard_settings_read_only_status">כרטיס ה- SD טיעון לקריאה בלבד.</string>
-    <string name="skip_label">דלגתי</string>
+    <string name="skip_label">דלג</string>
     <string name="next_label">הבא</string>
     <string name="language_picker_title">שפה</string>
     <string name="activity_picker_label">בחר פעילות</string>
@@ -337,7 +337,7 @@
     <string name="networks">בחירת מפעיל</string>
     <string name="sum_carrier_select">בחר מפעיל רשת</string>
     <string name="date_and_time_settings_title">תאריך ושעה</string>
-    <string name="date_and_time_settings_title_setup_wizard">גדר תאריך ושעה</string>
+    <string name="date_and_time_settings_title_setup_wizard">הגדר תאריך ושעה</string>
     <string name="date_and_time_settings_summary">הגדרת תאריך, שעה, אזור זמן ופורמטים</string>
     <string name="date_time_auto">תאריך ושעה אוטומטי</string>
     <string name="date_time_auto_summaryOn">השתמש בשעה שמספק רשת</string>
@@ -346,9 +346,9 @@
     <string name="zone_auto_summaryOn">השתמש בשעה שמספק רשת</string>
     <string name="zone_auto_summaryOff">השתמש בשעה שמספק רשת</string>
     <string name="date_time_24hour">השתמש בתבנית של 24 שעות</string>
-    <string name="date_time_set_time">גדר שעה</string>
+    <string name="date_time_set_time">הגדר שעה</string>
     <string name="date_time_set_timezone">בחר את אזור זמן</string>
-    <string name="date_time_set_date">גדר תאריך</string>
+    <string name="date_time_set_date">הגדר תאריך</string>
     <string name="date_time_date_format">בחר את תבנית תאריך</string>
     <string name="zone_list_menu_sort_alphabetically">מיין לפי סדר אלף-בית</string>
     <string name="zone_list_menu_sort_by_timezone">מיון לפי אזור זמן</string>
@@ -359,7 +359,7 @@
     <string name="biometric_weak_liveliness_summary">דורש הרף עין תוך בפתיחה</string>
     <string name="lock_after_timeout">נעילה אוטומטית</string>
     <string name="lock_after_timeout_summary">%1$s לאחר השינה</string>
-    <string name="show_owner_info_on_lockscreen_label">צג פרטי בעלים במסך נעילה</string>
+    <string name="show_owner_info_on_lockscreen_label">הצג פרטי בעלים במסך נעילה</string>
     <string name="owner_info_settings_title">פרטי בעלים</string>
     <string name="security_enable_widgets_title">אפשר יישומונים</string>
     <string name="security_enable_widgets_disabled_summary">מושבת על ידי מנהל מערכת</string>
@@ -391,7 +391,7 @@
     <string name="crypt_keeper_cooldown">נסה שוב בעוד ^ שניות 1.</string>
     <string name="crypt_keeper_enter_password">הקלד את הסיסמה שלך</string>
     <string name="crypt_keeper_failed_title">הצפנה נכשלה</string>
-    <string name="crypt_keeper_failed_summary">הצפנה הופסק ולא יכול להשלים. כתוצאה מכך, נתונים בטלפון שלך אינו נגיש עוד. כדי לחדש את השימוש בטלפון שלך, עליך לבצע איפוס נתוני יצרן. כאשר אתה מגדיר את הטלפון לאחר איפוס, יהיה לך הזדמנות לשחזר נתונים שגובו בחשבון Google שלך.</string>
+ <string name="crypt_keeper_failed_summary">הצפנה הופסקה ולא יכולה להשלים. כתוצאה מכך, נתונים בטלפון שלך אינם נגישים עוד. כדי לחדש את השימוש בטלפון שלך, עליך לבצע איפוס נתוני יצרן. כאשר אתה מגדיר את הטלפון לאחר איפוס, יהיה לך הזדמנות לשחזר נתונים שגובו בחשבון Google שלך.</string>
     <string name="crypt_keeper_switch_input_method">חלף שיטת קלט</string>
     <string name="lock_settings_picker_title">בחר נעילת מסך</string>
     <string name="backup_lock_settings_picker_title">בחר מנעול הגיבוי</string>
@@ -547,7 +547,7 @@
     <string name="wifi_display_pause">השהה</string>
     <string name="wifi_display_resume">קורות חיים</string>
     <string name="wifi_display_wps_config">תצורת WPS</string>
-    <string name="wifi_display_listen_channel">תקשיב ערוץ</string>
+    <string name="wifi_display_listen_channel">תקשיב לערוץ</string>
     <string name="wifi_display_operating_channel">ערוץ הפעלה</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">אפשר החלפת נתונים כאשר הטלפון נוגע במכשיר אחר</string>
@@ -567,13 +567,13 @@
     <string name="wifi_settings_summary">גדר ונהל נקודתי גישה אלחוטית</string>
     <string name="wifi_setup_wizard_title">בחר רשת אלחוטית</string>
     <string name="wifi_starting">מפעיל Wi-Fi ...</string>
-    <string name="wifi_stopping">המכבה Wi-Fi ...</string>
+    <string name="wifi_stopping">מכבה Wi-Fi ...</string>
     <string name="wifi_error">שגיאה</string>
     <string name="wifi_in_airplane_mode">במצב טיסה</string>
     <string name="wifi_fail_to_scan">לא ניתן לסרוק לאיתור הרשתות</string>
     <string name="wifi_notify_open_networks">התראת רשת</string>
     <string name="wifi_notify_open_networks_summary">שלח לי התראה כאשר יש רשת פתוחה זמינה</string>
-    <string name="wifi_poor_network_detection">הימנע מחיבורים עניים</string>
+    <string name="wifi_poor_network_detection">הימנע מחיבורים חלשים</string>
     <string name="wifi_poor_network_detection_summary">אל תשתמש ברשת Wi-Fi, אלא אם כן יש לו חיבור לאינטרנט טוב</string>
     <string name="wifi_scan_always_available">סריקה תמיד זמינה</string>
     <string name="wifi_scan_always_available_summary">בואו לשירות המיקום של Google ויישומים אחרים סריקה לאיתור רשתות, גם כאשר WLAN כבוי</string>
@@ -581,7 +581,7 @@
     <string name="wifi_scan_notify_text_location_on">כדי לשפר את דיוק מיקום ולמטרות אחרות, Google ויישומים אחרים יכולים לסרוק עבור רשתות בקרבת מקום, גם כאשר WLAN כבוי. אם אתה לא רוצה שזה יקרה, ללכת למתקדם> סריקה תמיד זמינה.</string>
     <string name="wifi_scan_notify_text_location_off">ייתכן שיישומי הסריקה לאיתור רשתות בקרבת מקום, גם כאשר WLAN כבוי. אם אתה לא רוצה שזה יקרה, ללכת למתקדם> סריקה תמיד זמינה.</string>
     <string name="wifi_scan_notify_remember_choice">אל תציג שוב</string>
-    <string name="wifi_setting_sleep_policy_title">שאר Wi-Fi פעיל במהלך שינה</string>
+    <string name="wifi_setting_sleep_policy_title">השאר Wi-Fi פעיל במהלך שינה</string>
     <string name="wifi_setting_sleep_policy_error">אירע בעיה בשינוי ההגדרה</string>
     <string name="wifi_suspend_optimizations">אופטימיזציה WLAN</string>
     <string name="wifi_suspend_optimizations_summary">למזער את השימוש בסוללה כאשר WLAN הוא ב</string>
@@ -603,7 +603,7 @@
     <string name="wifi_more">עוד</string>
     <string name="wifi_setup_wps">הגדרה אוטומטית (WPS)</string>
     <string name="wifi_required_info_text">כדי להשלים את ההתקנה, המכשיר שלך זקוק לגישה לרשת אלחוטית. לאחר התקנה, אתה יכול לעבור בין נתונים וWLAN ניידים.</string>
-    <string name="wifi_show_advanced">צג אפשרויות מתקדמת</string>
+    <string name="wifi_show_advanced">הצג אפשרויות מתקדמות</string>
     <string name="wifi_wps_setup_title">התקנת WPS</string>
     <string name="wifi_wps_setup_msg">WPS מפעיל ...</string>
     <string name="wifi_wps_onstart_pbc">לחץ על לחצן הגדרה מוגנת Wi-Fi בנתב. זה יכול להיקרא \"WPS\" או להכיל את הסמל הזה:</string>
@@ -631,7 +631,7 @@
     <string name="wifi_eap_identity">זהה</string>
     <string name="wifi_eap_anonymous">זהות אנונימית</string>
     <string name="wifi_password">סיסמא</string>
-    <string name="wifi_show_password">צג סיסמא</string>
+    <string name="wifi_show_password">הצג סיסמא</string>
     <string name="wifi_ip_settings">הגדרות IP</string>
     <string name="wifi_unchanged">(ללא שינוי)</string>
     <string name="wifi_unspecified">(לא צוין)</string>
@@ -659,8 +659,8 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_scan_always_turnon_message">כדי לשפר את דיוק מיקום ולמטרות %1$s רוצה להפעיל את סריקה ברשת, גם כאשר WLAN כבוי. לאפשר את זה לכל היישומים שרצונך לסרוק?</string>
     <string name="wifi_scan_always_confirm_allow">הרשה</string>
-    <string name="wifi_scan_always_confirm_deny">להכחיש</string>
-    <string name="wifi_connect">התחברתי</string>
+    <string name="wifi_scan_always_confirm_deny">דחה</string>
+    <string name="wifi_connect">התחבר</string>
     <string name="wifi_failed_connect_message">נכשל נסיון להתחבר לרשת</string>
     <string name="wifi_forget">שכח</string>
     <string name="wifi_failed_forget_message">נכשל ניסיון לשכוח רשת</string>
@@ -700,7 +700,7 @@
     <string name="wifi_p2p_menu_searching">מחפש ...</string>
     <string name="wifi_p2p_menu_rename">שנה את שם התקן</string>
     <string name="wifi_p2p_peer_devices">מכשירי עמיתים</string>
-    <string name="wifi_p2p_remembered_groups">קבוצות זכרו</string>
+    <string name="wifi_p2p_remembered_groups">זכרונות של קבוצות</string>
     <string name="wifi_p2p_failed_connect_message">לא ניתן להתחבר.</string>
     <string name="wifi_p2p_failed_rename_message">לא ניתן לשנות את שם ההתקן.</string>
     <string name="wifi_p2p_disconnect_title">להתנתק?</string>
@@ -709,8 +709,8 @@
     <string name="wifi_p2p_cancel_connect_title">ביטול הזמנה?</string>
     <string name="wifi_p2p_cancel_connect_message">האם ברצונך לבטל את ההזמנה ליצת התחברות %1$s</string>
     <string name="wifi_p2p_delete_group_message">תשכח מקבוצה זו?</string>
-    <string name="wifi_tether_checkbox_text">נקודה האלחוטית הניידת</string>
-    <string name="wifi_tether_starting">הפיכת נקודה חמה על ...</string>
+    <string name="wifi_tether_checkbox_text">נקודה אלחוטית ניידת</string>
+     <string name="wifi_tether_starting">מפעיל נקודה חמה  ...</string>
     <string name="wifi_tether_stopping">כיבוי נקודה חמה ...</string>
     <string name="wifi_tether_enabled_subtext">%1$s פעיל של נקודה אלחוטית</string>
     <string name="wifi_tether_failed_subtext">שגיאה של נקודה האלחוטית של Wi-Fi</string>
