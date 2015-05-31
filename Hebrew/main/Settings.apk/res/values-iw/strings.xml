@@ -1334,8 +1334,8 @@
     <string name="clear_adb_keys">לבטל את אישורי איתור באגים USB</string>
     <string name="bugreport_in_power">דיווחי באגים תפריט Power</string>
     <string name="bugreport_in_power_summary">כולל אפשרות בתפריט כוח לקחת דיווח באג</string>
-    <string name="keep_screen_on">שאר פועל</string>
-    <string name="keep_screen_on_summary">מסך לעולם לא יהיה במצב השינה במהלך הטעינה</string>
+    <string name="keep_screen_on">השאר פועל</string>
+    <string name="keep_screen_on_summary">מסך לעולם לא יהיה כבוי במהלך הטעינה</string>
     <string name="bt_hci_snoop_log">אפשר יומן סנופ Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">ללכוד את כל מנות Bluetooth HCI בקובץ</string>
     <string name="select_runtime_title">זמן ריצה בחר</string>
