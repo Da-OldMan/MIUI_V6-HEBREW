@@ -36,10 +36,7 @@
     <string name="menu_send_wechat">לשלוח ל- WeChat</string>
     <string name="info_note_enter_desktop">פתק נוסף למסך הבית</string>
     <string name="alert_message_delete_notes">מאשר למחוק את %d ?</string>
-    <string name="alert_message_delete_folders">למחוק את ה %1$s תיקיות שנבחרו?</string>
-    <string name="alert_message_delete_folders_notes">מחק %1$s ו %2$s?</string>
     <string name="alert_message_delete_note">בטוח למחוק?</string>
-    <string name="format_move_notes_to_folder">העבר %1$s ל %2$s</string>
     <string name="format_move_notes_out_folder">Moved %1$s out</string>
     <string name="alert_title_edit_anyway">אישור עריכת הפתק, זה עלול לגרום לאובדן נתונים, אתה בטוח?</string>
     <string name="alert_message_edit_anyway">הפתק מכיל תוכן שאינו נתמך, עריכתו עלולה לגרום לאובדן נתונים.</string>
