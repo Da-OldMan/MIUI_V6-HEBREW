@@ -102,4 +102,5 @@
     <string name="sns_choose_quality_title">Choose image quality</string>
     <string name="sns_choose_quality_high">High (%1$s)</string>
     <string name="sns_choose_quality_low">Low</string>
+    <string name="alert_message_delete_notes">Delete (%1$s)?</string>
 </resources>
