@@ -125,8 +125,8 @@
     <string name="preferred_network_mode_summary">"לשנות את מצב הפעלה לרשת"</string>
     <string name="preferred_network_mode_dialogtitle">"סוג רשת מועדף"</string>
     <string name="network_forbidden">"%s (אסור)"</string>
-    <string name="data_enabled">"הנתונים אפשרו"</string>
-    <string name="data_enable_summary">"לאפשר גישה לנתונים על גבי רשת סלולרי"</string>
+    <string name="data_enabled">"תקשורת נתונים"</string>
+    <string name="data_enable_summary">"אפשר גישה לנתונים באמצעות תקשורת סלולרית"</string>
     <string name="roaming">"נדידת נתונים"</string>
     <string name="roaming_enable">"התחבר לשירותי נתונים בעת נדידה"</string>
     <string name="roaming_disable">"התחבר לשירותי נתונים בעת נדידה"</string>
