@@ -71,7 +71,6 @@
     <string name="passport_relogin_notice">"אתה צריך להיכנס שוב"</string>
     <string name="passport_quick_login_title">"הכנס את הסיסמה שלך"</string>
     <string name="passport_quick_login_step2_title">"אימות 2-צעד"</string>
-    <string name="passport_account_name">"%1$s"</string>
     <string name="passport_quick_login_dialog_title">"אימות סיסמא"</string>
     <string name="passport_quick_login_dialog_step2_title">"אימות 2-צעד"</string>
     <string name="passport_input_password_hint">"הזן את הסיסמא"</string>
@@ -173,7 +172,6 @@
     <string name="video_name_actor">"שחקנים"</string>
     <string name="setting_common">"כללי"</string>
     <string name="setting_airkan">"תצוגה אלחוטית"</string>
-    <string name="setting_version">"%1$s"</string>
     <string name="history_title">"היסטוריה"</string>
     <string name="fav">"כוכבים"</string>
     <string name="hot_videos">"פופולרי"</string>
@@ -186,8 +184,6 @@
     <string name="app_open_intv">"פתח באמצעות Mi טלוויזיה"</string>
     <string name="app_open_inbox">"פתח באמצעות Mi תיבה"</string>
     <string name="app_update">"עדכן"</string>
-    <string name="app_version">"%1$s"</string>
-    <string name="app_size">"%1$s"</string>
     <string name="app_detail_no_comments">"אין ביקורות."</string>
     <string name="app_detail_info">"מידע על אפליקציה"</string>
     <string name="app_detail_comments">"ביקורות"</string>
@@ -224,7 +220,7 @@
     <string name="dpad_right">"תקין"</string>
     <string name="dpad_ok">"אישור"</string>
     <string name="splash_desc">"לשלוט בכל דבר רק עם ברז."</string>
-    <string name="splash_add_device_des">"התחל על ידי זיווג כמה מכשירים"</string>
+    <string name="splash_add_device_des">"התחל על ידי צימוד כמה מכשירים"</string>
     <string name="add_device_match_desc_top">"    1. כוון מכשיר Mi בך %1$s"</string>
     <string name="add_device_match_desc_center">"    2. לחץ על הסמל מעל"</string>
     <string name="add_device_match_desc_bottom">"    3. בדוק את החיבור"</string>
@@ -281,7 +277,7 @@
     <string name="succeed_content">"%3$s %4$s בהצלחה."</string>
     <string name="succeed_finish">"אישור"</string>
     <string name="fail_title">"לא יכול לשייך"</string>
-    <string name="fail_content">"    לא הצלחתי למצוא את זיווג מידע."</string>
+    <string name="fail_content">"    לא הצלחתי למצוא את צימוד מידע."</string>
     <string name="fail_device_type">"סוג"</string>
     <string name="fail_device_brand">"מותג"</string>
     <string name="fail_device_model">"דגם"</string>
