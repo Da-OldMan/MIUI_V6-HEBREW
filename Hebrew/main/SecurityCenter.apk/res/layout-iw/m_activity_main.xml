@@ -33,6 +33,7 @@
         </com.miui.securitycenter.ScanningBar>
     </FrameLayout>
     <com.miui.securitycenter.ContentView android:id="@id/content_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/bottom_bar">
+        <Button android:id="@id/month_report" android:background="@drawable/month_report_btn_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.699982dip" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
         <LinearLayout android:orientation="horizontal" android:id="@id/top_score_frame" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="50.0dip" android:layout_centerHorizontal="true">
             <com.miui.securitycenter.ScoreTextView android:textSize="66.66998sp" android:textColor="@color/m_activity_main_score" android:id="@id/top_score" android:layout_width="wrap_content" android:layout_height="wrap_content" />
             <TextView android:textSize="14.0sp" android:textColor="@color/m_activity_main_score_pts" android:gravity="top" android:paddingTop="6.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/score_pts" />
