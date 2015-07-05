@@ -133,7 +133,7 @@
     <string name="passport_remove_account_notice">"Exit after the account that you want to do with your phone contacts and notes"</string>
     <string name="passport_data_keep_in_device">"השאר בטלפון"</string>
     <string name="passport_data_wipe_from_device">"מחק מהטלפון"</string>
-    <string name="app_name">"מרחוק Mi"</string>
+    <string name="app_name">"שלט רחוק"</string>
     <string name="hello_world">"שלום!"</string>
     <string name="menu_settings">"הגדרות"</string>
     <string name="action_settings">"הגדרות"</string>
