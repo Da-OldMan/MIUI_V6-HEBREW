@@ -52,7 +52,7 @@
   <string name="account_settings_login_dialog_content_fmt">"שם המשתמש או הסיסמה %s אינו נכון. האם אתה רוצה לעדכן אותם עכשיו?"</string>
     <string formatted="false" name="account_settings_login_dialog_reason_fmt">"לא יכולתי להיכנס %s השרת אמר %s"</string>
     <string name="account_settings_login_dialog_title">"לא ניתן להיכנס"</string>
-    <string name="account_settings_mail_check_frequency_label">"תדר"</string>
+    <string name="account_settings_mail_check_frequency_label">"תדירות"</string>
     <string name="account_settings_mibill_resolve_label">"נתח את הצהרות דוא\"ל"</string>
     <string name="account_settings_name_label">"כינוי"</string>
     <string name="account_settings_notifications">"התראות"</string>
@@ -358,8 +358,8 @@
     <string name="discard">"בטל"</string>
     <string name="discard_drafts">"בטל טיוטות"</string>
     <string name="dismiss_tip_hover_text">"ביטול קצה"</string>
-    <string name="done">"עָשׂוּי"</string>
-    <string name="done_action">"עָשׂוּי"</string>
+    <string name="done">"אישור"</string>
+    <string name="done_action">"אשר"</string>
     <string name="donot_disturb_endtime_title">"ל"</string>
     <string name="donot_disturb_starttime_title">"מ"</string>
     <string name="donot_disturb_summary">"הודעות שמגיעות למייל תושתקנה"</string>
@@ -578,7 +578,7 @@
     <string name="no_contacts">"אין אנשי קשר."</string>
     <string name="no_content_in_body">"[אין גוף]"</string>
     <string name="no_conversations">"אין הודעות"</string>
-    <string name="no_mails">"לא אלקטרוני."</string>
+    <string name="no_mails">"אין דואר."</string>
     <string name="no_matched_attachment">"אין תוצאות."</string>
     <string name="no_wifi_promot">"כרגע אתה משתמש בחיבור הנתונים הנייד שלך"</string>
     <string name="non_synced_folder_description">"כדי להציג שיחות, לסנכרן תיקייה זו."</string>
