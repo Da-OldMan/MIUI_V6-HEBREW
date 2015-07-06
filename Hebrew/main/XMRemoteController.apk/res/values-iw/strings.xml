@@ -130,7 +130,7 @@
     <string name="passport_remove_account_notice">"Exit after the account that you want to do with your phone contacts and notes"</string>
     <string name="passport_data_keep_in_device">"השאר בטלפון"</string>
     <string name="passport_data_wipe_from_device">"מחק מהטלפון"</string>
-    <string name="app_name">"רחוקMI שלט"</string>
+    <string name="app_name">"שלט MIרחוק"</string>
     <string name="hello_world">"שלום!"</string>
     <string name="menu_settings">"הגדרות"</string>
     <string name="action_settings">"הגדרות"</string>
@@ -317,8 +317,8 @@
     <string name="delete_confirm">"לבטל התאמת מכשיר?"</string>
     <string name="delete_desc">"אתה לא יהיה מסוגל לשלוט %s מרחוק באמצעות Mi."</string>
     <string name="rename_hint">"הזן את השם של המכשיר"</string>
-    <string name="add_device">"מכשיר חדש זוג"</string>
-    <string name="add_new_control">"מרחוק חדש זוג"</string>
+    <string name="add_device">"צימוד מכשיר חדש"</string>
+    <string name="add_new_control">"צימוד שלט חדש"</string>
     <string name="add_control">"צימוד שלט"</string>
     <string name="loading_brand">"מקבל מידע ..."</string>
     <string name="other">"אחר"</string>
@@ -343,7 +343,7 @@
     <string name="login_failed">"לא יכול לחתום ב"</string>
     <string name="control_vol_by_cellphone">"להשתמש במכשיר כדי לשלוט בעוצמת קול"</string>
     <string name="key_press_vibrate">"רטט במגע"</string>
-    <string name="virtual_keyhboard">"מקלדת מכשיר שימוש"</string>
+    <string name="virtual_keyhboard">"השתמש במקלדת המכשיר"</string>
     <string name="virtual_keyhboard_intro">"להשתמש במקלדת של המכשיר שלך להקליד על תצוגה"</string>
     <string name="tv_mirror">"פקדי תצוגה"</string>
     <string name="tv_mirror_intro">"פקדי תצוגת הצג במצב נוף"</string>
@@ -477,7 +477,7 @@
     <string name="epg_status_playing_text">"משודר כעת"</string>
     <string name="epg_detail_title_text">"הקדמה"</string>
     <string name="actor_intro_title_text">"דמות ראשית"</string>
-    <string name="episode_title">פרק %1$d ראשון</string>
+    <string name="episode_title">פרק %1$d </string>
     <string name="pull_down_refresh">"משוך מטה כדי לרענן..."</string>
     <string name="release_to_refresh">"שחרר כדי לרענן..."</string>
     <string name="refreshing">"מרענן..."</string>
