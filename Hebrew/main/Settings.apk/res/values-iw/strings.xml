@@ -755,7 +755,7 @@
     <string name="ring_volume_title">עוצמת קול של צלצול</string>
     <string name="vibrate_in_silent_title">רטט במצב שקט</string>
     <string name="notification_sound_title">הודעת ברירת מחדל</string>
-    <string name="notification_pulse_title">בזק אור התראה</string>
+    <string name="notification_pulse_title">הבזק אור התראה</string>
     <string name="incoming_call_volume_title">צלצול</string>
     <string name="notification_volume_title">התראה</string>
     <string name="checkbox_notification_same_as_incoming_call">השתמש בעוצמת קול של שיחות נכנס להתראות</string>
@@ -2223,9 +2223,9 @@
     <string name="manually_add_network">הוספה הידנית של רשת</string>
     <string name="network_detail">%s פרטי רשת</string>
     <string name="connected_wifi">Wi-Fi מחובר</string>
-    <string name="incoming_call_breathing_light_color_title">שיחות צבע אור</string>
-    <string name="notification_breathing_light_color_title">הודעות להדליק צבע</string>
-    <string name="mms_breathing_light_color_title">הודעות להדליק צבע</string>
+    <string name="incoming_call_breathing_light_color_title">צבע נורה לאחר שיחה שלא נענתה</string>
+    <string name="notification_breathing_light_color_title">צבע נורה לאחר קבלת התראה</string>
+    <string name="mms_breathing_light_color_title">צבע נורה לאחר קבלת הודעה</string>
     <string name="breathing_light_color_menu_title">צבע אור</string>
     <string name="breathing_light_color_summary">LED בצבע בעת קבלת הודעה חדש</string>
     <string name="breathing_light_freq_title">תדר ההבהוב LED</string>
@@ -2236,7 +2236,7 @@
     <string name="led_settings">הגדרות LED</string>
     <string name="led_colors_summary">צבע LED בעת קבלת ההודעה</string>
     <string name="led_frequence_summary">הגדר את המרווח בין הבזקי LED</string>
-    <string name="led_pulse_summary">בזק LED בעת קבלת התראה חדש</string>
+    <string name="led_pulse_summary">הבזק נורית לד בזמן קבלת התראה חדשה</string>
     <string name="show_rounded_corners">צג פינות מעוגלת</string>
     <string name="pref_operational_key">כפתור תפעולי</string>
     <string name="pref_button_light">אורות מקשים</string>
