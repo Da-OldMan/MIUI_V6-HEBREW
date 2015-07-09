@@ -70,7 +70,7 @@
     <string name="puk_unlock_success">"PUK לפתוח מוצלח."</string>
     <string name="labelGSMMore">"הגדרות שיחת GSM"</string>
     <string name="labelCDMAMore">"הגדרות שיחת CDMA"</string>
-    <string name="apn_settings">"שמות של נקודתי גישה"</string>
+    <string name="apn_settings">"שמות של נקודות גישה"</string>
     <string name="settings_label">"הגדרות רשת"</string>
     <string name="voicemail">"שירות תא קולי"</string>
     <string name="voicemail_abbreviated">"VM:"</string>

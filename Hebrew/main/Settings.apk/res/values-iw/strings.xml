@@ -564,7 +564,7 @@
     <string name="wifi_settings">הגדרות אינטרנט אלחוטי</string>
     <string name="wifi_settings_category">הגדרות אינטרנט אלחוטי</string>
     <string name="wifi_settings_title">הגדרות אינטרנט אלחוטי</string>
-    <string name="wifi_settings_summary">גדר ונהל נקודתי גישה אלחוטית</string>
+    <string name="wifi_settings_summary">הגדר ונהל נקודת גישה אלחוטית</string>
     <string name="wifi_setup_wizard_title">בחר רשת אלחוטית</string>
     <string name="wifi_starting">מפעיל Wi-Fi ...</string>
     <string name="wifi_stopping">מכבה Wi-Fi ...</string>
@@ -2194,7 +2194,7 @@
     <string name="camera_key_action_shortcut_search">חיפוש</string>
     <string name="camera_key_action_shortcut_call">שיחה</string>
     <string name="camera_key_action_shortcut_wake">נעל / שרות מכשיר</string>
-    <string name="multi_touch_points_category_title">נקודתי מגע מרובות</string>
+    <string name="multi_touch_points_category_title">נקודות מגע מרובות</string>
     <string name="multi_touch_points_preference">אתחל כדי לאפשר</string>
     <string name="trackball_settings">עכבר</string>
     <string name="status_bar_settings">הגדרות שורת מצב</string>
