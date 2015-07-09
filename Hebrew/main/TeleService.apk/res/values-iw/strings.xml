@@ -119,7 +119,7 @@
     <string name="connect_later">"לא ניתן להתחבר לרשת הזאת עכשיו. נסה שוב מאוחר יותר."</string>
     <string name="registration_done">"רשום ברשת."</string>
     <string name="select_automatically">"בחר באופן אוטומטי"</string>
-    <string name="sum_select_automatically">"באופן אוטומטי לבחור רשת מועדפת"</string>
+    <string name="sum_select_automatically">"בחר רשת מועדפת באופן אוטומטי"</string>
     <string name="register_automatically">"רישום אוטומטי ..."</string>
     <string name="preferred_network_mode_title">"סוג רשת מועדף"</string>
     <string name="preferred_network_mode_summary">"לשנות את מצב הפעלה לרשת"</string>
@@ -133,8 +133,8 @@
     <string name="roaming_reenable_message">"איבדת את קישוריות נתונים כיוון שעזבת את הרשת הביתית שלך עם נדידת נתונים כבויה."</string>
     <string name="roaming_warning">"הנתונים מאפשרים נדידה? אתה עשוי להיות כרוכים בחיובי נדידה משמעותיים!"</string>
     <string name="ussd_dialog_sep">"----------"</string>
-    <string name="always_enable_mms">"תמיד לקבל MMS"</string>
-    <string name="always_enable_mms_summary">"לקבל MMS גם כאשר נתונים ניידים כבוי"</string>
+    <string name="always_enable_mms">"קבל תמיד MMS"</string>
+    <string name="always_enable_mms_summary">"קבל MMS גם כאשר נתונים לנייד מכובים"</string>
     <string name="network_unlock">"נעילה"</string>
     <string name="networks_title">"רשתות סלולריות"</string>
     <string name="network_settings_warn_message">"המכשיר שלך רק להתחבר לרשתותיך לבחור באופן ידני."</string>
