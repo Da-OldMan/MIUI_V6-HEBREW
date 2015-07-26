@@ -183,7 +183,7 @@
     <string name="account_sync_off">"סנכרון חשבון כבוי."</string>
     <string name="account_waiting_for_folders_msg">"טוען תיקיות ..."</string>
     <string name="accounts_welcome">"אתה יכול להגדיר את החשבון שלך בכמה צעדים פשוטים."</string>
-    <string name="actionbar_large_unread_count">"+%1$d  לא נקראו"</string>
+    <string name="actionbar_large_unread_count">"%1$d  לא נקראו+"</string>
     <string name="actionbar_title_mail_aggregation">"צבירה אלקטרונית:"</string>
     <string name="activity_folder_selection">"בחר תיקייה"</string>
     <string name="activity_mailbox_selection">"בחר חשבון"</string>
