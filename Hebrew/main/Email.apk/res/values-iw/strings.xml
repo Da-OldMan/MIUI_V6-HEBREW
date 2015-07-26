@@ -236,10 +236,10 @@
     <string name="attachment_stop_all">"הפסק"</string>
     <string name="attachment_text">"טקסט"</string>
     <string name="attachment_type_blocked">"למרבה הצער, לא ניתן לשמור או לפתוח סוג זה של קובץ מצורף."</string>
-    <string name="attachment_unknown">"% קובץs"</string>
+    <string name="attachment_unknown">קובץ %s</string>
     <string name="attachment_video">"סירטון"</string>
     <string name="attachments_header">"קבצים מצורפים"</string>
-    <string name="auth_error_notification_text">"הקש כדי לערוך את הגדרות חשבון %s"</string>
+    <string name="auth_error_notification_text">הקש כדי לערוך את הגדרות חשבון %s</string>
     <string name="auth_error_notification_title">"שגיאת אימות"</string>
     <string name="auto_advance_help_title">"לאחר מחיקת הודעה, להציג ..."</string>
     <string name="auto_advance_label">"מחק זרימת הודעה"</string>
